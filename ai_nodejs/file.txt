@@ -1,0 +1,4 @@
+create a open ai key 
+go to https://platform.openai.com/ 
+create an account 
+and generate an openai api key that's it.
